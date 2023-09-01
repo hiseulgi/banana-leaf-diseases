@@ -1,0 +1,6 @@
+Pillow==10.0.0
+pytorch_lightning==2.0.7
+Requests==2.31.0
+torch==2.0.1
+torchmetrics==1.0.3
+torchvision==0.15.2
